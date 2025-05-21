@@ -81,9 +81,11 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 ##OUTPUT
 
-
-
-
+![alt text](img/2.2.png)
+![alt text](img/2.3.png)
+![alt text](img/2.4.png)
+![alt text](img/2.5.png)
+![alt text](img/2.6.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -131,7 +133,7 @@ int main() {
 ```
 ##OUTPUT
 
-
+![alt text](img/img2.1.png)
 
 # RESULT:
 The programs are executed successfully.
